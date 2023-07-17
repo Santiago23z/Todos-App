@@ -1,0 +1,11 @@
+.buttonAdd {
+    border: none;
+    background-color: white;
+    width: 40px;
+    height: 40px;
+    border-radius: 100px;
+    position: fixed;
+    bottom: 25px;
+    text-align: center;
+    right: 25px;
+}

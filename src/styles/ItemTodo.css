@@ -1,0 +1,56 @@
+.itemList {
+    list-style: none;
+    width: 100%;
+    height: 55px;
+    background-color: rgb(87, 87, 87);
+    display: flex;
+    border-radius: 12px;
+    justify-content: center;
+    align-items: center;
+    margin: 25px 0;
+    position: relative;
+}
+
+.InfoTask {
+    color: white;
+}
+
+.Icon {
+    font-size: 34px;
+    cursor: pointer;
+
+}
+
+.Icon-check {
+    color: white;
+    position: absolute;
+    top: 10px;
+    left: 12px;
+}
+
+.Icon-check:hover {
+    color: rgb(174, 225, 174);
+}
+
+.Icon-delete {
+    color: red;
+    position: absolute;
+    top: -18px;
+    right: 12px;
+}
+
+.Icon-delete:hover {
+    color: rgb(223, 111, 111);
+}
+
+.Icon-check-Active{
+    color: rgb(105, 253, 105);
+}
+
+.Icon-check-Active:hover {
+    color: rgb(105, 253, 105);
+}
+
+.TasksCompletedSpan {
+    text-decoration: line-through;
+}

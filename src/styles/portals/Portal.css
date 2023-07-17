@@ -1,0 +1,38 @@
+.portal {
+    width: 250px;
+    height: 250px;
+    background-color: aliceblue;
+    position: absolute;
+    top: 50%;
+    border-radius: 20px;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.active { 
+    background-color: aqua;
+}
+
+form {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    height: 100%;
+    flex-direction: column;
+
+}
+
+.containerTask {
+    margin: 15px;
+    height: 100%;
+}
+
+.buttons {
+    display: flex;
+}
+
+.buttons > * {
+    margin: 10px;
+    padding: 10px;
+}
+

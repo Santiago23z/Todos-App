@@ -1,0 +1,7 @@
+.tittleTodo {
+    color: white;
+}
+
+.tittleTodo > * {
+    color: rgb(96, 96, 96);
+}
