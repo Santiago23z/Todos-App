@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Santiago23z/Todos-App/static/css/main.edf3ab16.css",
+    "main.js": "/Santiago23z/Todos-App/static/js/main.ffc49b46.js",
+    "index.html": "/Santiago23z/Todos-App/index.html",
+    "main.edf3ab16.css.map": "/Santiago23z/Todos-App/static/css/main.edf3ab16.css.map",
+    "main.ffc49b46.js.map": "/Santiago23z/Todos-App/static/js/main.ffc49b46.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.edf3ab16.css",
+    "static/js/main.ffc49b46.js"
+  ]
+}
